@@ -79,7 +79,7 @@ This project demonstrates the creation of an **interactive Excel dashboard** usi
 
 ## 📊 Dashboard Preview
 
-<img width="1301" height="654" alt="image" src="https://github.com/user-attachments/assets/8b09011f-9425-4aed-8eae-ba20eb4b036a" />
+<img width="1405" height="702" alt="Shoes" src="https://github.com/user-attachments/assets/b101fd8b-6458-4f4f-b1a9-832defd47ea5" />
 
 ---
 
