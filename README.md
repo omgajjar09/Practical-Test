@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard Project
+# 📊 Shoes Sales Dashboard Project
 
 ## 📌 Project Overview
 
